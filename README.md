@@ -9,11 +9,19 @@ historical information therefore to enable investors to invest into loan applica
 Problem Statement:  Predict likelihood of any loan getting charge-off (default)
 
 Brief Summary¶
-	Library Setup
-	Data Collection and Data Understanding
-	Exploratory Data Analysis
-	Data Preparation
-	Model Development and Obtain best classifier through Parameter-Tuning via Cross validation
-	Validation of model on holdout data (validation data) along with performance summary
-	Final Prediction on loan data (year 2008)
-	Model Object Save
+
+Library Setup
+
+Data Collection and Data Understanding
+
+Exploratory Data Analysis
+
+Data Preparation
+
+Model Development and Obtain best classifier through Parameter-Tuning via Cross validation
+
+Validation of model on holdout data (validation data) along with performance summary
+
+Final Prediction on loan data (year 2008)
+
+Model Object Save
